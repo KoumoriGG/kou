@@ -1,3 +1,4 @@
 KOU RESOLUSI 
 - Konsisten mempelari hal baru
 - Membuat aplikasi berbasis web
+- Membuat aplikasi berbasis mobile
