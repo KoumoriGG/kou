@@ -1,8 +1,8 @@
 KOU RESOLUSI 
 - Membuat aplikasi berbasis web
-  * Web CRUD
+  * Web E-Commerce
 - Membuat aplikasi berbasis mobile
-  * Aplikasi Checkout
+  * Aplikasi Mobile
 - Membuat sensor IoT
   * Sensor Panas
 - Mempelajari Arduino
